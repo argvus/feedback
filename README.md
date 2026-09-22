@@ -29,7 +29,7 @@ To make it easier for you to get in touch, each **ΛRGVUS** application below ha
 | Application | Description | Feedback |
 | :--- | :--- | :--- |
 | **argvus** | 🦉⚡⚙️✨ The complete Hyprland desktop environment | [Open issue](https://github.com/argvus/argvus/issues/new) |
-| **argvus-storage** | 🦀⚙️⏏️📦 Removable storage module for waybar (UDisks2) | [Open issue](https://github.com/argvus/argvus-storage/issues/new) |
+| **argvus-removable-devices** | 🦀⚙️⏏️📦 Removable storage module for waybar (UDisks2) | [Open issue](https://github.com/argvus/argvus-removable-devices/issues/new) |
 | **argvus-greeter** | 🦀🔐👤🛡️ Lightweight GTK4 greetd greeter | [Open issue](https://github.com/argvus/argvus-greeter/issues/new) |
 | **argvus-calendar** | 📅🦀⚡⏱️ Calendar for the ΛRGVUS desktop environment | [Open issue](https://github.com/argvus/argvus-calendar/issues/new) |
 | **argvus-accounts** | 🔑👤🔒⚡ Local user account and avatar manager | [Open issue](https://github.com/argvus/argvus-accounts/issues/new) |
