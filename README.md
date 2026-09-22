@@ -5,7 +5,7 @@
 <h1 align="center">ΛRGVUS — Feedback</h1>
 
 <p align="center">
-  <em>A complete desktop, ready to use. Focused on Hyprland.</em>
+  <em>A modular desktop environment for Wayland and Arch Linux, built on Hyprland.</em>
 </p>
 
 <p align="center">
