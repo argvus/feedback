@@ -32,7 +32,6 @@ To make it easier for you to get in touch, each **ΛRGVUS** application below ha
 | **argvus-removable-devices** | 🦀⚙️⏏️📦 Removable storage module for waybar (UDisks2) | [Open issue](https://github.com/argvus/argvus-removable-devices/issues/new) |
 | **argvus-greeter** | 🦀🔐👤🛡️ Lightweight GTK4 greetd greeter | [Open issue](https://github.com/argvus/argvus-greeter/issues/new) |
 | **argvus-calendar** | 📅🦀⚡⏱️ Calendar for the ΛRGVUS desktop environment | [Open issue](https://github.com/argvus/argvus-calendar/issues/new) |
-| **argvus-accounts** | 🔑👤🔒⚡ Local user account and avatar manager | [Open issue](https://github.com/argvus/argvus-accounts/issues/new) |
 | **argvus-appearance** | 🎨 Shared wallpapers and bundled fonts | [Open issue](https://github.com/argvus/argvus-appearance/issues/new) |
 | **argvus-waybar** | 📊 Waybar configuration and modules | [Open issue](https://github.com/argvus/argvus-waybar/issues/new) |
 | **argvus-session** | ⏳🎟️🥠🔒 Session binaries and configurations | [Open issue](https://github.com/argvus/argvus-session/issues/new) |
