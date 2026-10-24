@@ -8,6 +8,14 @@
   <em>A modular desktop environment for Wayland and Arch Linux, built on Hyprland.</em>
 </p>
 
+<div align="center">
+
+[![Pull requests](https://img.shields.io/github/issues-pr/argvus/feedback)](https://github.com/argvus/feedback/pulls)
+[![Issues](https://img.shields.io/github/issues/argvus/feedback)](https://github.com/argvus/feedback/issues)
+[![Last commit](https://img.shields.io/github/last-commit/argvus/feedback)](https://github.com/argvus/feedback/commits/main)
+
+</div>
+
 <p align="center">
   <a href="https://argvus.github.io">🌐 Website</a>
   ·
