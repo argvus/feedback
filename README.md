@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/argvus-banner.svg" alt="ΛRGVUS Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/ARGVUS-banner.svg" alt="ΛRGVUS Banner" width="100%">
 </p>
 
 <h1 align="center">ΛRGVUS — Feedback</h1>
