@@ -28,32 +28,30 @@
 
 Thank you for taking the time to help make **ΛRGVUS** better! 🚀
 
-Your feedback is essential to us. Whether you found a bug, want to request a feature, or have a suggestion, please open an issue in the repository that best matches your feedback.
+Your feedback is essential to us. Choose the repository that owns the affected part of ARGVUS and open an issue there. Components implemented inside the consolidated Rust workspace share the `argvus` repository; they do not have separate issue trackers.
 
-To make it easier for you to get in touch, each **ΛRGVUS** application below has its own dedicated issue link. Simply choose the one related to your feedback and click "New Issue".
+## 🗂️ Desktop components
 
-## 🗂️ Applications
+| Area | Where to report |
+| :--- | :--- |
+| Control Center, greeter, removable devices, taskbar calendar, CLI commands, configuration and translations | [`argvus`](https://github.com/argvus/argvus/issues/new) — these components live in the `de/argvus` workspace |
+| Hyprland configuration and integration | [`argvus-hyprland`](https://github.com/argvus/argvus-hyprland/issues/new) |
+| Session startup and services | [`argvus-session`](https://github.com/argvus/argvus-session/issues/new) |
+| Taskbar and shell integration | [`argvus-taskbar`](https://github.com/argvus/argvus-taskbar/issues/new) |
+| Waybar configuration and modules | [`argvus-waybar`](https://github.com/argvus/argvus-waybar/issues/new) |
+| Appearance settings and bundled defaults | [`argvus-appearance`](https://github.com/argvus/argvus-appearance/issues/new) |
+| Boot splash | [`argvus-boot-splash`](https://github.com/argvus/argvus-boot-splash/issues/new) |
+| Other standalone desktop packages | Find the package in the [ARGVUS repositories](https://github.com/orgs/argvus/repositories) and open an issue there |
 
-| Application | Description | Feedback |
-| :--- | :--- | :--- |
-| **argvus** | 🦉⚡⚙️✨ The complete Hyprland desktop environment | [Open issue](https://github.com/argvus/argvus/issues/new) |
-| **argvus-removable-devices** | 🦀⚙️⏏️📦 Removable storage module for waybar (UDisks2) | [Open issue](https://github.com/argvus/argvus-removable-devices/issues/new) |
-| **argvus-greeter** | 🦀🔐👤🛡️ Lightweight GTK4 greetd greeter | [Open issue](https://github.com/argvus/argvus-greeter/issues/new) |
-| **argvus-calendar** | 📅🦀⚡⏱️ Calendar for the ΛRGVUS desktop environment | [Open issue](https://github.com/argvus/argvus-calendar/issues/new) |
-| **argvus-appearance** | 🎨 Shared wallpapers and bundled fonts | [Open issue](https://github.com/argvus/argvus-appearance/issues/new) |
-| **argvus-waybar** | 📊 Waybar configuration and modules | [Open issue](https://github.com/argvus/argvus-waybar/issues/new) |
-| **argvus-session** | ⏳🎟️🥠🔒 Session binaries and configurations | [Open issue](https://github.com/argvus/argvus-session/issues/new) |
+## 🛠️ Website and infrastructure
 
-## 🛠️ System & Infrastructure
-
-| Repository | Description | Feedback |
-| :--- | :--- | :--- |
-| **argvus-splash** | 🐧🚀🎨⚡ Argvus boot splash theme for Plymouth | [Open issue](https://github.com/argvus/argvus-splash/issues/new) |
-| **argvus-logo** | 📐🖌️🎨🆔 ΛRGVUS logo and brand assets | [Open issue](https://github.com/argvus/argvus-logo/issues/new) |
-| **packages** | 🧑‍💻🔧📦️🐧 ΛRGVUS package repository | [Open issue](https://github.com/argvus/packages/issues/new) |
-| **argvus-extras** | 📦 Extra packages (PKGBUILD) | [Open issue](https://github.com/argvus/argvus-extras/issues/new) |
-| **argvus.github.io** | 🌐 ΛRGVUS website | [Open issue](https://github.com/argvus/argvus.github.io/issues/new) |
-| **pubkey** | 🔑 Official GPG public key for ΛRGVUS signatures | [Open issue](https://github.com/argvus/pubkey/issues/new) |
+| Area | Where to report |
+| :--- | :--- |
+| Website | [`argvus-website`](https://github.com/argvus/argvus-website/issues/new) |
+| Logo and brand assets | [`argvus-logo`](https://github.com/argvus/argvus-logo/issues/new) |
+| Arch package repository and publishing | [`packages`](https://github.com/argvus/packages/issues/new) |
+| Extra packages | [`argvus-extras`](https://github.com/argvus/argvus-extras/issues/new) |
+| Official signing key | [`pubkey`](https://github.com/argvus/pubkey/issues/new) |
 
 ---
 
@@ -69,11 +67,11 @@ To help us understand and resolve your feedback faster, please include:
 
 ## 📣 Not Sure Where to Report?
 
-If you're unsure which repository your feedback belongs to, feel free to open an issue on the main **argvus** repository and our team will help redirect it.
+If you're unsure which repository owns your feedback, open an issue on the main [`argvus`](https://github.com/argvus/argvus/issues/new) repository and the team will help route it.
 
 ## 💬 Community
 
-- 🌐 **Website:** [argvus.org](https://argvus.github.io)
+- 🌐 **Website:** [argvus.github.io](https://argvus.github.io)
 - 🦊 **GitLab:** [@argvus](https://gitlab.com/argvus)
 
 ---
