@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/ARGVUS-banner.svg" alt="ΛRGVUS Banner" width="100%">
 </p>
 
-<h1 align="center">ΛRGVUS — Feedback</h1>
+<h1 align="center">Feedback</h1>
 
 <p align="center">
   <em>A modular desktop environment for Wayland and Arch Linux, built on Hyprland.</em>
