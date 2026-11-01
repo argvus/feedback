@@ -38,9 +38,9 @@ Your feedback is essential to us. Choose the repository that owns the affected p
 | Hyprland configuration and integration | [`argvus-hyprland`](https://github.com/argvus/argvus-hyprland/issues/new) |
 | Session startup and services | [`argvus-session`](https://github.com/argvus/argvus-session/issues/new) |
 | Taskbar and shell integration | [`argvus-taskbar`](https://github.com/argvus/argvus-taskbar/issues/new) |
-| Waybar configuration and modules | [`argvus-waybar`](https://github.com/argvus/argvus-waybar/issues/new) |
+| Control Panel and quick system controls | [`argvus-control-panel`](https://github.com/argvus/argvus-control-panel/issues/new) |
 | Appearance settings and bundled defaults | [`argvus-appearance`](https://github.com/argvus/argvus-appearance/issues/new) |
-| Boot splash | [`argvus-boot-splash`](https://github.com/argvus/argvus-boot-splash/issues/new) |
+| Application launcher | [`argvus-launcher`](https://github.com/argvus/argvus-launcher/issues/new) |
 | Other standalone desktop packages | Find the package in the [ARGVUS repositories](https://github.com/orgs/argvus/repositories) and open an issue there |
 
 ## 🛠️ Website and infrastructure
